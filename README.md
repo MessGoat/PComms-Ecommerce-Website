@@ -15,3 +15,6 @@ For adding videos into the video tab
 3. Download the video, links are provided
 4. Put those video files into resources folder
 5. Direct the source src ="", to those videos
+
+Main page:
+1. Double click on Home.php
